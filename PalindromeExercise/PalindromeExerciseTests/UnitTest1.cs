@@ -16,7 +16,7 @@ namespace PalindromeExerciseTests
         {
                 //Arrange
                 var challenger = new WordSmith();
-                
+                 
                 //Act
                 var actual = challenger.IsAPalindrome(word);
                 
